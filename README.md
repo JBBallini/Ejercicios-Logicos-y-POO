@@ -1,1 +1,1 @@
-# Ejercicios-L-gicos-y-POO
+Ejercicios Lógica y POO con JAVA
